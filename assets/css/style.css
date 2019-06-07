@@ -104,7 +104,6 @@ article {
     border-top-width: 2px;
     border-style: solid;
     border-color: #cccccc;
-
 }
 
 article p {
@@ -118,7 +117,8 @@ article img {
 
 .gallery img {
     float: left;
-    margin: 20px;
+    margin: 20px 30px 10px 0px;
+    object-fit: cover;
 }
 
 footer {
@@ -161,5 +161,14 @@ input[type=text], textarea {
     border-radius: 4px;
     cursor: pointer;
   }  
-
+  /*
+  .img-box {
+        position: relative;
+        text-align: center;    
+  }
+  .img-txt {
+      position: absolute;
+      bottom: 5px;
+  }
+  */
 
