@@ -8,4 +8,9 @@
 
 2019-06-06 22:38 completed portforlio and contact page, but the gallery is not correct
                 the images don't extend the page and I don't know how to add text over the images
-            use cover to make sure all pictures are lined up     
+            use cover to make sure all pictures are lined up    
+
+2019-06-07 14:23  Hard coded gallery (tage article in the portfolio page) to 750px
+             Kind of cheatings
+
+             
